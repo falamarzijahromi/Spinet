@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Spnet.Tests", "Spnet.Tests\Spnet.Tests.csproj", "{3E5AF27D-6146-4A1C-8147-67B2BC75368E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Spinet.Bootstrapper", "Spinet.Bootstrapper\Spinet.Bootstrapper.csproj", "{B3D09103-B135-4E8E-8C1C-A8481738FC02}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{00D0FF86-E1A8-4751-8DAC-9159D35F5A65}"
+	ProjectSection(SolutionItems) = preProject
+		postman-sample.json = postman-sample.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E5AF27D-6146-4A1C-8147-67B2BC75368E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E5AF27D-6146-4A1C-8147-67B2BC75368E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E5AF27D-6146-4A1C-8147-67B2BC75368E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E5AF27D-6146-4A1C-8147-67B2BC75368E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3D09103-B135-4E8E-8C1C-A8481738FC02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3D09103-B135-4E8E-8C1C-A8481738FC02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3D09103-B135-4E8E-8C1C-A8481738FC02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3D09103-B135-4E8E-8C1C-A8481738FC02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23578823-5E7F-4DA3-90C2-14C69D6F336F}
+	EndGlobalSection
+EndGlobal
